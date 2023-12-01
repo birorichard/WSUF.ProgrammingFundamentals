@@ -17,6 +17,11 @@ Console.WriteLine($"A tömb hármas indexű eleme: {temperatureValueWithIndexThr
 // 14 lesz az eredmény:
 Console.WriteLine($"Ami nem egyezik meg a harmadik elemmel (annak az index-e kettő): {thirdTtemperatureValue}");
 
+foreach (var item in temperatureInCelsiusToday)
+{
+    Console.WriteLine(item);
+}
+
 // Ciklusvezérlés
 for (/*Ciklusváltozó, csak a for cikluson belül létezik */ int i = 0; /*Végfeltétel: */i < temperatureInCelsiusToday.Length - 1; i++)
 {

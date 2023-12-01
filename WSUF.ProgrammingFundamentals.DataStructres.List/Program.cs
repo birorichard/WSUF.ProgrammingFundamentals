@@ -20,7 +20,7 @@ Console.WriteLine("\n");
 
 
 fruits.Remove("Cherry"); // Törli a megadott elemet
-fruits.RemoveAt(0); // Törli az elemet az 0. indexen
+fruits.RemoveAt(0); // Törli az elemet a 0. indexen
 Console.WriteLine($"fruits lista elemei az eltávolítás után: {string.Join(", ", fruits)}");
 Console.WriteLine($"numbers lista elemei az eltávolítás után: {string.Join(", ", numbers)}");
 Console.WriteLine("\n");

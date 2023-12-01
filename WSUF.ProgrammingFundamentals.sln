@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{38C1F89D-D4D7-4BA2-8363-656BC61E32E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUF.ProgrammingFundamentals.SwitchCase", "WSUF.ProgrammingFundamentals.SwitchCase\WSUF.ProgrammingFundamentals.SwitchCase.csproj", "{445CA0B6-BC78-4601-A333-2D890C54D14E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUF.ProgrammingFundamentals.SwitchCase", "WSUF.ProgrammingFundamentals.SwitchCase\WSUF.ProgrammingFundamentals.SwitchCase.csproj", "{445CA0B6-BC78-4601-A333-2D890C54D14E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUF.ProgrammingFundamentals.DataStructures.Array", "WSUF.ProgrammingFundamentals.DataStructures.Array\WSUF.ProgrammingFundamentals.DataStructures.Array.csproj", "{F5A930FC-C89F-4B2E-B674-471571285B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUF.ProgrammingFundamentals.DataStructures.Array", "WSUF.ProgrammingFundamentals.DataStructures.Array\WSUF.ProgrammingFundamentals.DataStructures.Array.csproj", "{F5A930FC-C89F-4B2E-B674-471571285B94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUF.ProgrammingFundamentals.DataStructures.List", "WSUF.ProgrammingFundamentals.DataStructres.List\WSUF.ProgrammingFundamentals.DataStructures.List.csproj", "{491FC448-6C45-40B7-867A-B5201989B575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUF.ProgrammingFundamentals.DataStructures.List", "WSUF.ProgrammingFundamentals.DataStructres.List\WSUF.ProgrammingFundamentals.DataStructures.List.csproj", "{491FC448-6C45-40B7-867A-B5201989B575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUF.ProgrammingFundamentals.DataStructures.Dictionary", "WSUF.ProgrammingFundamentals.DataStructures.Dictionary\WSUF.ProgrammingFundamentals.DataStructures.Dictionary.csproj", "{C78AD667-DE75-4A82-9B6A-3289601284BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUF.ProgrammingFundamentals.DataStructures.Dictionary", "WSUF.ProgrammingFundamentals.DataStructures.Dictionary\WSUF.ProgrammingFundamentals.DataStructures.Dictionary.csproj", "{C78AD667-DE75-4A82-9B6A-3289601284BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.AbstractClass", "OOP.AbstractClass\OOP.AbstractClass.csproj", "{3277C8D0-4391-4EA0-B81B-A34F18E160C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C78AD667-DE75-4A82-9B6A-3289601284BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C78AD667-DE75-4A82-9B6A-3289601284BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C78AD667-DE75-4A82-9B6A-3289601284BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3277C8D0-4391-4EA0-B81B-A34F18E160C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3277C8D0-4391-4EA0-B81B-A34F18E160C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3277C8D0-4391-4EA0-B81B-A34F18E160C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3277C8D0-4391-4EA0-B81B-A34F18E160C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
